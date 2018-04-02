@@ -93,7 +93,7 @@ public class Board {
 
     }
 
-    //setter for this board class
+    //GETTERS for this board class
     public String[][] getMy_board() {
         return my_board;
     }
